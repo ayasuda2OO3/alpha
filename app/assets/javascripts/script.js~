@@ -1,0 +1,28 @@
+$(document).ready(function() {
+	// slideshow with play/pause
+		var slideShow = $('.playPauseExample').slideShow({
+			interval: 5
+		});
+		// now add logic to play/pause button
+		$('.playPauseExample a.togglePlayback').click(function() {
+			if (slideShow.isPlaying()) {
+				$(this).html('Play');
+			} else {
+				$(this).html('Stop');
+			}
+			slideShow.togglePlayback();
+			return false;
+		});
+		
+		$('.playPauseExample a.page').click(function() {
+			if (slideShow.isPlaying()) {} else {
+				$('.playPauseExample a.togglePlayback').html('Stop');
+			}
+			return false;
+		});
+		
+		$('.banner').hover(function(){$(this).find('h3').animate({left:'30'},100,'easeInCirc').animate({left:'-50'},10,'easeInCirc').animate({left:'0'},400,'easeOutBounce');
+							$(this).find('span').animate({left:'50'},100,'easeInCirc').animate({left:'-5'},10,'easeInCirc').animate({left:'0'},400,'easeOutBounce');
+							$(this).find('strong').animate({left:'50'},100,'easeInCirc').animate({left:'-20'},10,'easeInCirc').animate({left:'0'},400,'easeOutBounce');},function(){});
+		
+});

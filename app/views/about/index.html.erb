@@ -1,0 +1,40 @@
+<body id="page2">
+  <div class="top-bg">
+    <div>
+      <div class="top-center">
+        <div>
+          <div id="main">
+            <!--header -->
+            <div id="header">
+              <a href="/"><%= image_tag "logo.jpg", :class => "logo" %></a>
+              <div class="container">
+               	<div class="social">
+            	  <a href="#" class="twitter">&nbsp;</a><a href="http://www.facebook.com/pages/Pacific-Oasis-Enterprise-Inc/288212501208185" class="facebook">&nbsp;</a><a href="#" class="stumbleupon">&nbsp;</a><a href="#" class="rss">&nbsp;</a>
+               	</div>
+              </div>
+	      <div class="menu">
+		<ul>
+		  <li><a href="/">Home</a></li>
+		  <li><%= link_to "Products", products_path %></li>
+		  <li><%= link_to "People", accounts_path %></li>
+		  <li><%= link_to "News", news_index_path %></li>
+		  <li class="active"><%= link_to "About", about_path %></li>
+		  <li><a href="/servlet/contact">Contact</a></li>
+		</ul>
+              </div>
+            </div>
+            <!--header end-->
+            <div id="content">
+              <%= render "shared/aboutus" %>
+	    </div>
+            <!--footer -->
+            <div id="footer">
+	      <%= render "shared/company_footer" %>
+            </div>
+            <!--footer end-->
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

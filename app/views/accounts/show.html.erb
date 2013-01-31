@@ -1,0 +1,45 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Fname:</b>
+  <%= @account.fname %>
+</p>
+
+<p>
+  <b>Mname:</b>
+  <%= @account.mname %>
+</p>
+
+<p>
+  <b>Lname:</b>
+  <%= @account.lname %>
+</p>
+
+<p>
+  <b>Title:</b>
+  <%= @account.title %>
+</p>
+
+<p>
+  <b>Phone:</b>
+  <%= @account.phone %>
+</p>
+
+<p>
+  <b>Fax:</b>
+  <%= @account.fax %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @account.email %>
+</p>
+
+<p>
+  <b>Address:</b>
+  <%= @account.address %>
+</p>
+
+
+<%= link_to 'Edit', edit_account_path(@account) %> |
+<%= link_to 'Back', accounts_path %>

@@ -1,0 +1,25 @@
+# I referenced the page http://guides.rubyonrails.org/getting_started.html to the setup details. Remember to setup the schema in mysql first.
+development:
+    adapter: mysql2
+    encoding: utf8
+    database: elexical_development
+    pool: 5
+    username: root
+    password:
+    socket: /var/run/mysqld/mysqld.sock
+test:
+    adapter: mysql2
+    encoding: utf8
+    database: elexical_test
+    pool: 5
+    username: root
+    password:
+    socket: /var/run/mysqld/mysqld.sock
+production:
+    adapter: mysql2
+    encoding: utf8
+    database: elexical_production
+    pool: 5
+    username: root
+    password:
+    socket: /var/run/mysqld/mysqld.sock

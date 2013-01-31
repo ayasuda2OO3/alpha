@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html class="cufon-active cufon-ready">
+	<head>
+		<style media="screen"></style>
+		<title>Pacific Oasis  Enterprise, Inc.</title>
+		<%= stylesheet_link_tag "poe" %>
+		<%= javascript_include_tag "jquery-1.4.2" %>
+		<%= javascript_include_tag "cufon-yui" %>
+		<%= javascript_include_tag "cufon-replace" %>
+		<%= javascript_include_tag "News_Gothic_700.font" %>
+		<%= javascript_include_tag "Swiss_721_italic_500.font" %>
+		<%= javascript_include_tag "Swiss_721_400.font" %>
+		<%= javascript_include_tag "imagepreloader" %>
+		<%= javascript_include_tag "jquery.anythingslider" %>
+		<%= javascript_include_tag "jquery.easing.1.2" %>
+		<%= javascript_include_tag "slider" %>
+		<%= javascript_include_tag "jquery.slideshow" %>
+		<%= javascript_include_tag "script" %>
+		<script type="text/javascript">
+		jQuery.noConflict();
+		preloadImages([
+		"<%= asset_path "link-bg-hover.jpg" %>",
+		"<%= asset_path "link1-bg-hover.jpg" %>",
+		"<%= asset_path "link2-bg-hover.jpg" %>",
+		"<%= asset_path "menu-a-bg.gif" %>"]);
+		Cufon.now();
+		</script>
+		<%= javascript_include_tag "mootools" %>
+		<%= javascript_include_tag "slimbox" %>
+		<!--[if lt IE 7]-->
+		<%= javascript_include_tag "ie_png" %>
+		<script type="text/javascript">
+		DD_belatedPNG.fix('.social a');
+		</script>
+		<!--[endif]-->
+	</head>
+	<%= yield %>
+</html>
