@@ -3,8 +3,8 @@ Poe::Application.routes.draw do
 
   resources :accounts, :news, :products 
   
-  resources :about => 'about#index'
-  
+  match 'about' => 'about#index'
+  match 'contact' => 'contacts#index'
 
   # get "main/index"
 
