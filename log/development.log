@@ -28986,3 +28986,1372 @@ Processing by MainController#index as HTML
   Rendered shared/_company_footer.html.erb (0.2ms)
   Rendered main/index.html.erb within layouts/application (5.8ms)
 Completed 200 OK in 17ms (Views: 17.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contact" for 99.101.8.31 at 2013-02-01 00:46:12 -0800
+Processing by ContactsController#index as HTML
+  Rendered shared/_contact.html.erb (0.6ms)
+  Rendered shared/_company_footer.html.erb (0.2ms)
+  Rendered contacts/index.html.erb within layouts/application (4.5ms)
+Completed 200 OK in 17ms (Views: 16.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:12 -0800
+Served asset /poe.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:12 -0800
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /jquery-1.4.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /cufon-yui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /cufon-replace.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /imagepreloader.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /mootools.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /slimbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /ie_png.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /body-tail.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /logo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /facebook.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /stumbleupon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /marker.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:13 -0800
+Served asset /input-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter-hover.png" for 99.101.8.31 at 2013-02-01 00:46:14 -0800
+Served asset /twitter-hover.png - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/about" for 99.101.8.31 at 2013-02-01 00:46:15 -0800
+Processing by AboutController#index as HTML
+  Rendered shared/_about.html.erb (0.5ms)
+  Rendered shared/_company_footer.html.erb (0.6ms)
+  Rendered about/index.html.erb within layouts/application (11.3ms)
+Compiled poe.css  (10ms)  (pid 1245)
+Compiled jquery-1.4.2.js  (0ms)  (pid 1245)
+Compiled cufon-yui.js  (0ms)  (pid 1245)
+Compiled cufon-replace.js  (0ms)  (pid 1245)
+Compiled News_Gothic_700.font.js  (0ms)  (pid 1245)
+Compiled Swiss_721_italic_500.font.js  (0ms)  (pid 1245)
+Compiled Swiss_721_400.font.js  (0ms)  (pid 1245)
+Compiled imagepreloader.js  (0ms)  (pid 1245)
+Compiled jquery.anythingslider.js  (0ms)  (pid 1245)
+Compiled jquery.easing.1.2.js  (0ms)  (pid 1245)
+Compiled slider.js  (0ms)  (pid 1245)
+Compiled jquery.slideshow.js  (0ms)  (pid 1245)
+Compiled script.js  (0ms)  (pid 1245)
+Compiled mootools.js  (1ms)  (pid 1245)
+Compiled slimbox.js  (0ms)  (pid 1245)
+Compiled ie_png.js  (0ms)  (pid 1245)
+Completed 200 OK in 466ms (Views: 465.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /jquery-1.4.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /poe.css - 304 Not Modified (3ms)
+Served asset /cufon-yui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /cufon-replace.js - 304 Not Modified (2ms)
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (35ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /script.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /mootools.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:16 -0800
+Served asset /slimbox.js - 304 Not Modified (2ms)
+Served asset /ie_png.js - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /imagepreloader.js - 304 Not Modified (3ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (5ms)
+Served asset /body-tail.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /logo.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (6ms)
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /facebook.png - 304 Not Modified (0ms)
+Served asset /twitter.png - 304 Not Modified (4ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /stumbleupon.png - 304 Not Modified (4ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /rss.png - 304 Not Modified (2ms)
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /marker.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:17 -0800
+Served asset /input-bg.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/news" for 99.101.8.31 at 2013-02-01 00:46:18 -0800
+Processing by NewsController#index as HTML
+  [1m[36mNews Load (0.2ms)[0m  [1mSELECT `news`.* FROM `news` [0m
+  Rendered shared/_news.html.erb (0.5ms)
+  Rendered shared/_company_footer.html.erb (0.6ms)
+  Rendered news/index.html.erb within layouts/application (35.2ms)
+Completed 200 OK in 230ms (Views: 149.2ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /poe.css - 304 Not Modified (2ms)
+Served asset /jquery-1.4.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /cufon-replace.js - 304 Not Modified (0ms)
+Served asset /cufon-yui.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /News_Gothic_700.font.js - 304 Not Modified (2ms)
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /imagepreloader.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /mootools.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /slimbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /ie_png.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (2ms)
+Served asset /menu-a-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /body-tail.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /logo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /input-img.jpg - 304 Not Modified (6ms)
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /facebook.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /stumbleupon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+Served asset /bg_menu.png - 304 Not Modified (6ms)
+
+
+Started GET "/assets/link1-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /link1-bg.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:19 -0800
+Served asset /input-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/products" for 99.101.8.31 at 2013-02-01 00:46:20 -0800
+Processing by ProductsController#index as HTML
+  [1m[35mProduct Load (0.2ms)[0m  SELECT `products`.* FROM `products` 
+  Rendered shared/_product_list.html.erb (16.8ms)
+  Rendered shared/_company_footer.html.erb (0.1ms)
+  Rendered products/index.html.erb within layouts/application (20.7ms)
+Completed 200 OK in 40ms (Views: 35.0ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Served asset /poe.css - 304 Not Modified (0ms)
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /jquery-1.4.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /cufon-yui.js - 304 Not Modified (2ms)
+Served asset /cufon-replace.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /slider.js - 304 Not Modified (2ms)
+Served asset /jquery.slideshow.js - 304 Not Modified (0ms)
+Served asset /imagepreloader.js - 304 Not Modified (26ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /mootools.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /slimbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /ie_png.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/products/thumb/j-1.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-2.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-1.jpg - 304 Not Modified (7ms)
+Served asset /products/thumb/j-2.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/products/thumb/B-039.png" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/B-039.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-3.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-4.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-3.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-5.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-4.jpg - 304 Not Modified (6ms)
+Served asset /products/thumb/j-5.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-6.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-6.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-7.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-7.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-8.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-8.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-9.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-10.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-9.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/products/thumb/j-11.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-11.jpg - 304 Not Modified (0ms)
+Served asset /products/thumb/j-10.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-12.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-12.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-13.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-13.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-14.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-14.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-15.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-15.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-16.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-17.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-16.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-18.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-19.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-17.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-18.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-19.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-20.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-20.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-21.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-21.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-22.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-23.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Served asset /products/thumb/j-22.jpg - 304 Not Modified (4ms)
+Started GET "/assets/products/thumb/j-24.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-25.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-25.jpg - 304 Not Modified (0ms)
+Served asset /products/thumb/j-24.jpg - 304 Not Modified (6ms)
+Served asset /products/thumb/j-23.jpg - 304 Not Modified (35ms)
+
+
+Started GET "/assets/products/thumb/j-26.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-26.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-27.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-27.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-28.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-29.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-28.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-30.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-30.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/products/thumb/j-31.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-31.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-29.jpg - 304 Not Modified (37ms)
+
+
+Started GET "/assets/products/thumb/j-32.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-32.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/products/thumb/j-33.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-34.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-33.jpg - 304 Not Modified (6ms)
+Served asset /products/thumb/j-34.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-35.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-35.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-36.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-37.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-36.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-37.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-38.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-38.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-39.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-40.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-39.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-40.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/products/thumb/j-41.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-41.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-42.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-43.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-42.jpg - 304 Not Modified (4ms)
+Served asset /products/thumb/j-43.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-44.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-44.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-45.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-46.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-45.jpg - 304 Not Modified (5ms)
+Served asset /products/thumb/j-46.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-47.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-48.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-49.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-48.jpg - 304 Not Modified (6ms)
+Served asset /products/thumb/j-49.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/products/thumb/j-50.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-47.jpg - 304 Not Modified (38ms)
+Served asset /products/thumb/j-50.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-58.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-51.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-51.jpg - 304 Not Modified (6ms)
+Served asset /products/thumb/j-58.jpg - 304 Not Modified (35ms)
+
+
+Started GET "/assets/products/thumb/j-52.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-52.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-53.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+
+
+Started GET "/assets/products/thumb/j-55.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-53.jpg - 304 Not Modified (4ms)
+Served asset /products/thumb/j-55.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/products/thumb/j-56.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-56.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-57.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-57.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-59.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-59.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-60.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-60.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-61.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-61.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-62.jpg" for 99.101.8.31 at 2013-02-01 00:46:21 -0800
+Served asset /products/thumb/j-62.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-63.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /products/thumb/j-63.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/products/thumb/j-64.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /products/thumb/j-64.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-65.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /products/thumb/j-65.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/products/thumb/j-66.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /products/thumb/j-66.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /body-tail.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /logo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /facebook.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /stumbleupon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /marker.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /input-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/accounts" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Processing by AccountsController#index as HTML
+  [1m[36mAccount Load (0.3ms)[0m  [1mSELECT `accounts`.* FROM `accounts` [0m
+  Rendered shared/_employee_list.html.erb (0.7ms)
+  Rendered shared/_company_footer.html.erb (0.2ms)
+  Rendered accounts/index.html.erb within layouts/application (4.4ms)
+Completed 200 OK in 76ms (Views: 16.3ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /poe.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /cufon-yui.js - 304 Not Modified (0ms)
+Served asset /jquery-1.4.2.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+Served asset /cufon-replace.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /imagepreloader.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /slider.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /script.js - 304 Not Modified (2ms)
+Served asset /mootools.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /slimbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /ie_png.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (0ms)
+Served asset /link1-bg-hover.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:22 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (4ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /logo.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (1ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /top-bg.jpg - 304 Not Modified (3ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+Served asset /body-tail.gif - 304 Not Modified (43ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /facebook.png - 304 Not Modified (6ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /stumbleupon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /marker.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /input-bg.jpg - 304 Not Modified (0ms)
+Connecting to database specified by database.yml
+
+
+Started GET "/" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Processing by MainController#index as HTML
+  Rendered shared/_slides_main.html.erb (0.9ms)
+  Rendered shared/_company_profile.html.erb (0.0ms)
+  Rendered shared/_company_news.html.erb (0.0ms)
+  Rendered shared/_slides_footer.html.erb (0.5ms)
+  Rendered shared/_company_footer.html.erb (0.1ms)
+  Rendered main/index.html.erb within layouts/application (6.0ms)
+Completed 200 OK in 18ms (Views: 17.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /poe.css - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+
+
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /jquery-1.4.2.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /cufon-yui.js - 304 Not Modified (0ms)
+Served asset /cufon-replace.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:23 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /imagepreloader.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /mootools.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /slimbox.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /ie_png.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/img1.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /img1.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slogan.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /slogan.png - 304 Not Modified (5ms)
+
+
+Started GET "/assets/img2.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /img2.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/img3.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /img3.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/img4.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/banner1.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/banner2.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /img4.jpg - 304 Not Modified (6ms)
+Served asset /banner1.jpg - 304 Not Modified (5ms)
+Served asset /banner2.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/banner3.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /banner3.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/banner4.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/banner5.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /banner4.jpg - 304 Not Modified (4ms)
+Served asset /banner5.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (24ms)
+
+
+Started GET "/assets/body-bottom-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /body-bottom-tail.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/assets/bottom-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/play.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/buttons.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /play.png - 304 Not Modified (6ms)
+Served asset /buttons.png - 304 Not Modified (6ms)
+Served asset /bottom-bg.jpg - 304 Not Modified (39ms)
+
+
+Started GET "/assets/icon1.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /icon1.jpg - 304 Not Modified (5ms)
+
+
+Started GET "/assets/box2-bg.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /box2-bg.png - 304 Not Modified (3ms)
+
+
+Started GET "/assets/icon2.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /icon2.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/box3-bg.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /box3-bg.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/icon3.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /icon3.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/link-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /link-bg.jpg - 304 Not Modified (4ms)
+
+
+Started GET "/assets/border-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/banners-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /body-tail.gif - 304 Not Modified (0ms)
+Served asset /banners-bg.jpg - 304 Not Modified (8ms)
+Served asset /border-bg.gif - 304 Not Modified (32ms)
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /logo.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /facebook.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /stumbleupon.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /h-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /marker.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /link1-bg.jpg - 304 Not Modified (2ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /input-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/box1-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:24 -0800
+Served asset /box1-bg.jpg - 304 Not Modified (6ms)
+
+
+Started GET "/contact" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Processing by ContactsController#index as HTML
+  Rendered shared/_contact.html.erb (0.7ms)
+  Rendered shared/_company_footer.html.erb (0.6ms)
+  Rendered contacts/index.html.erb within layouts/application (11.8ms)
+Completed 200 OK in 162ms (Views: 161.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/poe.css?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+
+
+Started GET "/assets/jquery-1.4.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+
+
+Served asset /jquery-1.4.2.js - 304 Not Modified (0ms)
+Started GET "/assets/cufon-yui.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /poe.css - 304 Not Modified (3ms)
+
+
+Started GET "/assets/cufon-replace.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /cufon-yui.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/News_Gothic_700.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /cufon-replace.js - 304 Not Modified (2ms)
+Served asset /News_Gothic_700.font.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/Swiss_721_italic_500.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /Swiss_721_italic_500.font.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/Swiss_721_400.font.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+
+
+Started GET "/assets/imagepreloader.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /Swiss_721_400.font.js - 304 Not Modified (2ms)
+Served asset /imagepreloader.js - 304 Not Modified (2ms)
+
+
+Started GET "/assets/jquery.anythingslider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /jquery.anythingslider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.easing.1.2.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /jquery.easing.1.2.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slider.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /slider.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/jquery.slideshow.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /jquery.slideshow.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/script.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /script.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/mootools.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /mootools.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/slimbox.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:25 -0800
+Served asset /slimbox.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/ie_png.js?body=1" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /ie_png.js - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /link-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link1-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /link1-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/link2-bg-hover.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /link2-bg-hover.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/menu-a-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /menu-a-bg.gif - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-tail.gif" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+
+
+Started GET "/assets/logo.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /body-tail.gif - 304 Not Modified (1ms)
+
+
+Started GET "/assets/input-img.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /logo.jpg - 304 Not Modified (1ms)
+Served asset /input-img.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/body-top-tail.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /body-top-tail.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/top-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /top-bg.jpg - 304 Not Modified (0ms)
+
+
+Started GET "/assets/twitter.png" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /twitter.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/facebook.png" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /facebook.png - 304 Not Modified (1ms)
+
+
+Started GET "/assets/stumbleupon.png" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+
+
+Started GET "/assets/rss.png" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /stumbleupon.png - 304 Not Modified (1ms)
+Served asset /rss.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/bg_menu.png" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /bg_menu.png - 304 Not Modified (0ms)
+
+
+Started GET "/assets/h-bg.gif" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+
+
+Started GET "/assets/marker.gif" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /h-bg.gif - 304 Not Modified (3ms)
+Served asset /marker.gif - 304 Not Modified (3ms)
+
+
+Started GET "/assets/input-bg.jpg" for 99.101.8.31 at 2013-02-01 00:46:26 -0800
+Served asset /input-bg.jpg - 304 Not Modified (1ms)
